@@ -1,6 +1,6 @@
 # SOMD: Software Mention Detection in Scholarly Publications Task
 
-This repository contains scripts for identifying and categorizing software mentions in text data. The project is the source of ABCD team participating in NLSP workshop of [SOMD task](https://nfdi4ds.github.io/nslp2024/docs/somd_shared_task.html)
+This repository contains scripts for identifying and categorizing software mentions in text data. The project is the source code of ABCD team participating in NLSP workshop of [SOMD task](https://nfdi4ds.github.io/nslp2024/docs/somd_shared_task.html) using LLMs for NER task
 
 ## Files for all 3 subtasks:
 
