@@ -1,6 +1,6 @@
 # Software Mention Identification and Categorization
 
-This repository contains scripts for identifying and categorizing software mentions in text data. The project consists of several Python scripts, each serving a specific purpose.
+This repository contains scripts for identifying and categorizing software mentions in text data. The project is the source of ABCD team participating in NLSP workshop of [SOMD task](https://nfdi4ds.github.io/nslp2024/docs/somd_shared_task.html)
 
 ## Files for all 3 subtasks:
 
