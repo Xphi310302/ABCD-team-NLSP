@@ -30,15 +30,18 @@ This repository contains scripts for identifying and categorizing software menti
 To clone this repository, use the following command:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/Xphi310302/ABCD-team-NLSP.git
+cd ABCD-team-NLSP
 ```
 
 2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
+3. Go to the folder of the subtask I, II or III
+```bash
+cd Subtask_1
+```
 3. Execute the desired script:
 ```bash
 python train_inference.py
